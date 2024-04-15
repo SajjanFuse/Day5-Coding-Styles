@@ -1,0 +1,23 @@
+WARNING:root:student_records.json not found
+INFO:root:Saved student records to student_records.json
+INFO:root:Added student: {'Name': 'Sansa', 'Age': 25, 'Grade': 59.0, 'ID': 13}
+INFO:root:Loaded student records from student_records.json
+INFO:root:Saved student records to student_records.json
+INFO:root:Added student: {'Name': 'Jon', 'Age': 12, 'Grade': 69.0, 'ID': 14}
+INFO:root:Loaded student records from student_records.json
+INFO:root:Saved student records to student_records.json
+INFO:root:Added student: {'Name': 'Samuel', 'Age': 32, 'Grade': 90.0, 'ID': 154}
+INFO:root:Loaded student records from student_records.json
+INFO:root:Saved student records to student_records.json
+INFO:root:Added student: {'Name': 'Arya', 'Age': 25, 'Grade': 19.0, 'ID': 123}
+INFO:root:Loaded student records from student_records.json
+INFO:root:Saved student records to student_records.json
+INFO:root:Added student: {'Name': 'Manish', 'Age': 27, 'Grade': 99.0, 'ID': 114}
+INFO:root:Loaded student records from student_records.json
+INFO:root:Saved student records to student_records.json
+INFO:root:Added student: {'Name': 'Pratik', 'Age': 23, 'Grade': 90.0, 'ID': 4}
+INFO:root:Loaded student records from student_records.json
+INFO:root:Loaded student records from student_records.json
+INFO:root:Saved student records to student_records.json
+INFO:root:Updated student 123: Age=26, Grade=95.0
+INFO:root:Loaded student records from student_records.json

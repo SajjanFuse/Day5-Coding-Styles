@@ -1,0 +1,20 @@
+INFO:root:Keyword found at line 3, sentence is 2022-04-01 10:30:45 - INFO - User logged in.
+ 
+INFO:root:Keyword found at line 14, sentence is 2022-04-01 11:25:40 - INFO - User logged out.
+ 
+INFO:root:Keyword found at line 15, sentence is 2022-04-01 11:30:25 - DEBUG - SQL query executed: SELECT * FROM users.
+ 
+INFO:root:Keyword found at line 21, sentence is 2022-04-01 12:00:55 - INFO - User registration complete.
+ 
+INFO:root:Keyword found at line 29, sentence is 2022-04-01 12:40:40 - INFO - User session expired.
+ 
+INFO:root:Keyword found at line 3, sentence is 2022-04-01 10:30:45 - INFO - User logged in.
+
+INFO:root:Keyword found at line 14, sentence is 2022-04-01 11:25:40 - INFO - User logged out.
+
+INFO:root:Keyword found at line 15, sentence is 2022-04-01 11:30:25 - DEBUG - SQL query executed: SELECT * FROM users.
+
+INFO:root:Keyword found at line 21, sentence is 2022-04-01 12:00:55 - INFO - User registration complete.
+
+INFO:root:Keyword found at line 29, sentence is 2022-04-01 12:40:40 - INFO - User session expired.
+
